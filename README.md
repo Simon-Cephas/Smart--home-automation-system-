@@ -43,3 +43,10 @@ if (temp > 30) {
 } else {
     digitalWrite(RELAY2, LOW);  // Turn OFF Fan
 }
+
+
+
+├── main.ino          # Complete C++ Embedded Source Code
+├── schematic.jpg     # High-resolution Proteus 8 Circuit Schematic
+└── README.md         # Project documentation
+
